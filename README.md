@@ -19,7 +19,7 @@ Open `main.m` and configure the following parameters:
 
 After setting these parameters, run `main.m`.
 
-Due to the large number of iterations and macro replications, **parallel computing on a high-performance computing (HPC) platform is strongly recommended**.
+Due to the large number of iterations and macro replications, parallel computing on a high-performance computing (HPC) platform is strongly recommended.
 
 ### Oracle Policy Requirements
 
