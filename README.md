@@ -54,7 +54,7 @@ The benchmark algorithms implemented and evaluated in the experiments are drawn 
 
 4. Frazier, P. I., Powell, W. B., & Dayanik, S. (2008). A knowledge-gradient policy for sequential information collection. SIAM Journal on Control and Optimization, 47(5), 2410–2439.
 
-5. Gao, S., & Chen, W. (2016). A new budget allocation framework for selecting top simulated designs. IIE transactions, 48(9), 855-863.
+5. Gao, S., & Chen, W. (2016). A new budget allocation framework for selecting top simulated designs. IIE Transactions, 48(9), 855-863.
 
 6. Li, D., Chew, E. P., Li, H., Yücesan, E., & Chen, C. H. (2025). Knowledge Gradient Procedure to Select the Best System Under Pairwise Comparisons. Naval Research Logistics, 72(8), 1078-1096.
 
