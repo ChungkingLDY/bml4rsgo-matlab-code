@@ -1,8 +1,8 @@
-# Probability of Improvement Criterion Revisited: Applications to Generalized Ranking and Selection
+# Bayesian Myopic Learning Approach for Generalized Ranking and Selection
 
 This repository contains MATLAB code and datasets used in the numerical experiments for the working paper:
 
-**“Probability of Improvement Criterion Revisited: Applications to Generalized Ranking and Selection.”**
+**“Bayesian Myopic Learning Approach for Generalized Ranking and Selection.”**
 
 All code was developed and tested using **MATLAB R2023a** on **Windows 10**.
 
