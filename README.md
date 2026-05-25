@@ -1,4 +1,4 @@
-# Bayesian Myopic Learning for Generalized Ranking and Selection
+# Bayesian Myopic Learning Approach for Ranking and Selection with Generalized Objectives
 
 This repository contains MATLAB code and datasets used in the numerical experiments for the working paper:
 
